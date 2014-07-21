@@ -1,0 +1,26 @@
+/Article.pm/1.7/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/BiblioBase.pm/1.9/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/Book.pm/1.7/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/BookArticle.pm/1.6/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/IO.pm/1.8/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/Journal.pm/1.6/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/JournalArticle.pm/1.7/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/MedlineArticle.pm/1.5/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/MedlineBook.pm/1.3/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/MedlineBookArticle.pm/1.3/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/MedlineJournal.pm/1.3/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/MedlineJournalArticle.pm/1.3/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/Organisation.pm/1.7/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/Patent.pm/1.7/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/Person.pm/1.8/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/Proceeding.pm/1.6/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/Provider.pm/1.4/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/PubmedArticle.pm/1.3/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/PubmedBookArticle.pm/1.3/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/PubmedJournalArticle.pm/1.4/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/Ref.pm/1.5/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/Service.pm/1.6/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/TechReport.pm/1.6/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/Thesis.pm/1.5/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+/WebResource.pm/1.6/Tue Oct 22 07:45:11 2002//Tbioperl-release-1-2-3
+D

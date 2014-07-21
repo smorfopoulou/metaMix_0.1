@@ -1,0 +1,61 @@
+\contentsline {section}{\numberline {1}For impatient people}{3}{section.1}
+\contentsline {section}{\numberline {2}Installation}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Requirements}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Compiling instructions}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Compilation settings}{4}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Colorspace Velvet}{4}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}CATEGORIES}{4}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}MAXKMERLENGTH.}{4}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4}BIGASSEMBLY}{5}{subsubsection.2.3.4}
+\contentsline {subsubsection}{\numberline {2.3.5}LONGSEQUENCES}{5}{subsubsection.2.3.5}
+\contentsline {subsubsection}{\numberline {2.3.6}OPENMP}{5}{subsubsection.2.3.6}
+\contentsline {subsubsection}{\numberline {2.3.7}BUNDLEDZLIB}{5}{subsubsection.2.3.7}
+\contentsline {section}{\numberline {3}Running instructions}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Running velveth}{6}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Piping Velvet}{7}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Strand specific sequencing}{7}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Multiple k-mers}{7}{subsubsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.4}Preprocessing the Sequences file}{8}{subsubsection.3.1.4}
+\contentsline {subsubsection}{\numberline {3.1.5}Using the binary version of Sequences}{8}{subsubsection.3.1.5}
+\contentsline {subsection}{\numberline {3.2}Running velvetg}{8}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Single reads}{9}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Adding long reads}{9}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Paired-ends reads}{10}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Controlling Velvet's output}{11}{subsubsection.3.2.4}
+\contentsline {paragraph}{Selecting contigs for output}{11}{section*.2}
+\contentsline {paragraph}{Using read tracking}{12}{section*.3}
+\contentsline {paragraph}{Producing an .afg file}{12}{section*.4}
+\contentsline {paragraph}{Using multiple categories}{12}{section*.5}
+\contentsline {paragraph}{Obtaining reads unused in the assembly}{12}{section*.6}
+\contentsline {subsection}{\numberline {3.3}Advanced parameters: Tour Bus}{12}{subsection.3.3}
+\contentsline {paragraph}{Caveat Emptor}{12}{section*.7}
+\contentsline {paragraph}{Maximum branch length}{13}{section*.8}
+\contentsline {paragraph}{Maximum divergence rate}{13}{section*.9}
+\contentsline {paragraph}{Maximum gap count}{13}{section*.10}
+\contentsline {subsection}{\numberline {3.4}Advanced parameters: Rock Band}{13}{subsection.3.4}
+\contentsline {paragraph}{Minimum long read connection cutoff}{13}{section*.11}
+\contentsline {subsection}{\numberline {3.5}Advanced parameters: Pebble}{14}{subsection.3.5}
+\contentsline {paragraph}{Minimum read-pair validation}{14}{section*.12}
+\contentsline {section}{\numberline {4}File formats}{14}{section.4}
+\contentsline {subsection}{\numberline {4.1}Input sequence files}{14}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}How Velvet now reads paired reads}{14}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}How Velvet used to work}{14}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Output files}{15}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}The contigs.fa file}{15}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}The stats.txt file}{15}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}The velvet\_asm.afg file}{15}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}The LastGraph file}{16}{subsubsection.4.2.4}
+\contentsline {section}{\numberline {5}Practical considerations / Frequently asked questions}{17}{section.5}
+\contentsline {subsection}{\numberline {5.1}K-mer coverage}{17}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Choice of hash length k}{17}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Choice of a coverage cutoff}{17}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Determining the expected coverage}{19}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Visualising contigs and assemblies}{19}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}What's long and what's short?}{20}{subsection.5.6}
+\contentsline {section}{\numberline {6}Contributed software}{20}{section.6}
+\contentsline {section}{\numberline {7}For more information}{21}{section.7}
+\contentsline {paragraph}{Publication:}{21}{section*.13}
+\contentsline {paragraph}{Webpage:}{21}{section*.14}
+\contentsline {paragraph}{Mailing list:}{21}{section*.15}
+\contentsline {paragraph}{Contact emails:}{21}{section*.16}
+\contentsline {paragraph}{Reporting bugs:}{22}{section*.17}

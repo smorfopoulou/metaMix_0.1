@@ -1,0 +1,21 @@
+/AnalysisI.pm/1.2.2.1/Fri Jul  4 02:40:29 2003//Tbioperl-release-1-2-3
+/ApplicationFactoryI.pm/1.5/Tue Oct 22 07:38:32 2002//Tbioperl-release-1-2-3
+/BlastHitFactory.pm/1.7/Tue Oct 22 09:38:09 2002//Tbioperl-release-1-2-3
+/BlastResultFactory.pm/1.5/Tue Oct 22 07:38:32 2002//Tbioperl-release-1-2-3
+/DriverFactory.pm/1.10/Sun Dec  1 00:05:20 2002//Tbioperl-release-1-2-3
+/EMBOSS.pm/1.10/Tue Oct 22 07:38:32 2002//Tbioperl-release-1-2-3
+/FTLocationFactory.pm/1.9.2.4/Sun Sep 14 19:15:39 2003//Tbioperl-release-1-2-3
+/HitFactoryI.pm/1.6/Tue Oct 22 07:38:32 2002//Tbioperl-release-1-2-3
+/LocationFactoryI.pm/1.2/Tue Oct 22 07:45:14 2002//Tbioperl-release-1-2-3
+/MapFactoryI.pm/1.5/Tue Oct 22 07:45:14 2002//Tbioperl-release-1-2-3
+/ObjectBuilderI.pm/1.2/Tue Oct 22 07:45:14 2002//Tbioperl-release-1-2-3
+/ObjectFactory.pm/1.1.2.1/Thu Mar 27 10:07:56 2003//Tbioperl-release-1-2-3
+/ObjectFactoryI.pm/1.3/Tue Oct 22 07:45:14 2002//Tbioperl-release-1-2-3
+/ResultFactoryI.pm/1.6/Tue Oct 22 07:38:32 2002//Tbioperl-release-1-2-3
+/SeqAnalysisParserFactory.pm/1.9/Sun Dec  1 00:05:20 2002//Tbioperl-release-1-2-3
+/SeqAnalysisParserFactoryI.pm/1.8/Sun Dec  1 00:05:20 2002//Tbioperl-release-1-2-3
+/SequenceFactoryI.pm/1.6/Tue Oct 22 07:45:14 2002//Tbioperl-release-1-2-3
+/SequenceProcessorI.pm/1.1/Thu Oct 24 18:35:46 2002//Tbioperl-release-1-2-3
+/SequenceStreamI.pm/1.3/Tue Oct 22 07:45:14 2002//Tbioperl-release-1-2-3
+/TreeFactoryI.pm/1.6/Tue Oct 22 07:45:14 2002//Tbioperl-release-1-2-3
+D

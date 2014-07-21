@@ -1,0 +1,45 @@
+\BOOKMARK [1][-]{section.1}{For impatient people}{}
+\BOOKMARK [1][-]{section.2}{Installation}{}
+\BOOKMARK [2][-]{subsection.2.1}{Requirements}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{Compiling instructions}{section.2}
+\BOOKMARK [2][-]{subsection.2.3}{Compilation settings}{section.2}
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Colorspace Velvet}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.2}{CATEGORIES}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.3}{MAXKMERLENGTH.}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.4}{BIGASSEMBLY}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.5}{LONGSEQUENCES}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.6}{OPENMP}{subsection.2.3}
+\BOOKMARK [3][-]{subsubsection.2.3.7}{BUNDLEDZLIB}{subsection.2.3}
+\BOOKMARK [1][-]{section.3}{Running instructions}{}
+\BOOKMARK [2][-]{subsection.3.1}{Running velveth}{section.3}
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Piping Velvet}{subsection.3.1}
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Strand specific sequencing}{subsection.3.1}
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Multiple k-mers}{subsection.3.1}
+\BOOKMARK [3][-]{subsubsection.3.1.4}{Preprocessing the Sequences file}{subsection.3.1}
+\BOOKMARK [3][-]{subsubsection.3.1.5}{Using the binary version of Sequences}{subsection.3.1}
+\BOOKMARK [2][-]{subsection.3.2}{Running velvetg}{section.3}
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Single reads}{subsection.3.2}
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Adding long reads}{subsection.3.2}
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Paired-ends reads}{subsection.3.2}
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Controlling Velvet's output}{subsection.3.2}
+\BOOKMARK [2][-]{subsection.3.3}{Advanced parameters: Tour Bus}{section.3}
+\BOOKMARK [2][-]{subsection.3.4}{Advanced parameters: Rock Band}{section.3}
+\BOOKMARK [2][-]{subsection.3.5}{Advanced parameters: Pebble}{section.3}
+\BOOKMARK [1][-]{section.4}{File formats}{}
+\BOOKMARK [2][-]{subsection.4.1}{Input sequence files}{section.4}
+\BOOKMARK [3][-]{subsubsection.4.1.1}{How Velvet now reads paired reads}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.2}{How Velvet used to work}{subsection.4.1}
+\BOOKMARK [2][-]{subsection.4.2}{Output files}{section.4}
+\BOOKMARK [3][-]{subsubsection.4.2.1}{The contigs.fa file}{subsection.4.2}
+\BOOKMARK [3][-]{subsubsection.4.2.2}{The stats.txt file}{subsection.4.2}
+\BOOKMARK [3][-]{subsubsection.4.2.3}{The velvet\137asm.afg file}{subsection.4.2}
+\BOOKMARK [3][-]{subsubsection.4.2.4}{The LastGraph file}{subsection.4.2}
+\BOOKMARK [1][-]{section.5}{Practical considerations / Frequently asked questions}{}
+\BOOKMARK [2][-]{subsection.5.1}{K-mer coverage}{section.5}
+\BOOKMARK [2][-]{subsection.5.2}{Choice of hash length k}{section.5}
+\BOOKMARK [2][-]{subsection.5.3}{Choice of a coverage cutoff}{section.5}
+\BOOKMARK [2][-]{subsection.5.4}{Determining the expected coverage}{section.5}
+\BOOKMARK [2][-]{subsection.5.5}{Visualising contigs and assemblies}{section.5}
+\BOOKMARK [2][-]{subsection.5.6}{What's long and what's short?}{section.5}
+\BOOKMARK [1][-]{section.6}{Contributed software}{}
+\BOOKMARK [1][-]{section.7}{For more information}{}

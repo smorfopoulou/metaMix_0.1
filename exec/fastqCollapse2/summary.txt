@@ -1,0 +1,3 @@
+Total nb of reads parsed: 0
+Total nb of reads selected: 0
+Percentage unique: nan

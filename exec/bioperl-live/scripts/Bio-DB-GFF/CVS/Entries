@@ -1,0 +1,13 @@
+/README/1.1/Fri Sep 27 15:59:49 2002//Tbioperl-release-1-2-3
+/bp_genbank2gff.pl/1.1.2.1/Fri Sep 12 13:31:44 2003//Tbioperl-release-1-2-3
+/bulk_load_gff.pl/1.9.2.1/Fri Sep 12 13:29:33 2003//Tbioperl-release-1-2-3
+/fast_load_gff.pl/1.2.2.1/Fri Sep 12 13:29:33 2003//Tbioperl-release-1-2-3
+/generate_histogram.pl/1.1.2.1/Fri Sep 12 13:29:33 2003//Tbioperl-release-1-2-3
+/load_gff.pl/1.5.2.1/Fri Sep 12 13:29:33 2003//Tbioperl-release-1-2-3
+/pg_bulk_load_gff.pl/1.1.2.1/Fri Sep 12 13:31:44 2003//Tbioperl-release-1-2-3
+/process_gadfly.pl/1.1.2.2/Fri Sep 12 13:29:33 2003//Tbioperl-release-1-2-3
+/process_ncbi_human.pl/1.2.2.2/Fri Sep 12 13:29:33 2003//Tbioperl-release-1-2-3
+/process_sgd.pl/1.2.2.2/Fri Sep 12 13:29:33 2003//Tbioperl-release-1-2-3
+/process_wormbase.pl/1.1.2.2/Fri Sep 12 13:29:33 2003//Tbioperl-release-1-2-3
+/ucsc2gff.pl/1.2/Sat Nov 30 07:30:08 2002//Tbioperl-release-1-2-3
+D

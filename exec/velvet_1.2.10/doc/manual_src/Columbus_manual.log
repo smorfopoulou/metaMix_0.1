@@ -1,0 +1,105 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2013.4.5)  26 FEB 2014 15:35
+entering extended mode
+**Columbus_manual.tex
+(./Columbus_manual.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
+stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
+h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
+kish, ukrainian, nohyphenation, loaded.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2004/02/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size12.clo
+File: size12.clo 2004/02/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+No file Columbus_manual.aux.
+\openout1 = `Columbus_manual.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+
+Overfull \hbox (14.63878pt too wide) in paragraph at lines 36--37
+[]\OT1/cmr/m/n/12 You se-quenced an in-di-vid-ual genome by WGS, mapped
+ []
+
+[1
+
+{/usr/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 85.
+
+(/usr/share/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 85.
+ [3] [4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 132.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 132.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 132.
+
+Overfull \hbox (5.12076pt too wide) in paragraph at lines 132--134
+[]\OT1/cmr/m/n/12 This scripts adds an ar-bi-trary buffer length (de-fault $100
+\OML/cmm/m/it/12 bp$\OT1/cmr/m/n/12 )
+ []
+
+
+Overfull \hbox (36.07521pt too wide) in paragraph at lines 145--145
+[]\OT1/cmtt/m/n/12 grep exon my_annotation.gtf | enlarge_exons.pl | merge_gtf_e
+xons.pl \[] 
+ []
+
+
+Overfull \hbox (23.7252pt too wide) in paragraph at lines 145--145
+[]\OT1/cmtt/m/n/12 | gff2fasta.pl my_reference_assembly.fa > my_reference_seque
+nces.fa[] 
+ []
+
+[5] (./Columbus_manual.aux) ) 
+Here is how much of TeX's memory you used:
+ 254 strings out of 94500
+ 2839 string characters out of 1176767
+ 50348 words of memory out of 1000000
+ 3495 multiletter control sequences out of 10000+50000
+ 9324 words of font info for 33 fonts, out of 500000 for 2000
+ 580 hyphenation exceptions out of 1000
+ 22i,6n,19p,515b,187s stack positions out of 1500i,500n,5000p,200000b,5000s
+PDF statistics:
+ 37 PDF objects out of 300000
+ 0 named destinations out of 131072
+ 1 words of extra memory for PDF output out of 65536
+</usr/share/texmf/fonts/type1/bluesky/cm/cmmi12.pf
+b></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf/fonts/t
+ype1/bluesky/cm/cmti12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmtt12.pfb>
+</usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/typ
+e1/bluesky/cm/cmr12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr17.pfb>
+Output written on Columbus_manual.pdf (5 pages, 61412 bytes).
